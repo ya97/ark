@@ -1,12 +1,14 @@
 ![logo](media/icon.svg)
 
-# noah&blogs 
+# Noah's ark
+ 
+> Noah's treasure house of divine knowledge.
 
-> A magical documentation site generator.
-
-- Simple and lightweight
-- No statically built html files
-- Multiple themes
+- I love three things in this world      
+- Sun, moon and you
+- Sun for morning
+- moon for night
+- and you forever.
 
 [GitHub](https://github.com/ya97/CodeGuide/)
-[Getting Started](#start)
+[Getting Started](#thesaurus)
