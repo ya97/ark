@@ -1,5 +1,5 @@
 - 知识宝库
-  - [java](/java/java.md)
-
+  - [java](/java/java.md)  
+  - [validate](/FAQ/Validate.md)
 - FAQ
   - [cross](/FAQ/Cross.md)
