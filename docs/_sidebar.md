@@ -2,5 +2,6 @@
   - [Java](/java/Java.md)  
   - [Valid](/java/Valid.md)
   - [ApiVersion](/java/ApiVersion.md)
+  - [Git&Cherry-pick](/git/Cherry-pick.md)
 - FAQ
   - [cross](/FAQ/Cross.md)
