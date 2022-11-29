@@ -1,7 +1,7 @@
 - 知识宝库
-  - [Java](/java/Java.md)  
-  - [Valid](/java/Valid.md)
-  - [ApiVersion](/java/ApiVersion.md)
-  - [Git&Cherry-pick](/git/Cherry-pick.md)
+  - [Java](/Java/Java.md)  
+  - [Valid](/Java/Valid.md)
+  - [ApiVersion](/Java/ApiVersion.md)
+  - [Git&Cherry-pick](/Git/Cherry-pick.md)
 - FAQ
   - [cross](/FAQ/Cross.md)
