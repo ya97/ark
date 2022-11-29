@@ -1,5 +1,6 @@
 - 知识宝库
-  - [java](/java/java.md)  
-  - [validate](/java/Validate.md)
+  - [Java](/java/Java.md)  
+  - [Valid](/java/Valid.md)
+  - [ApiVersion](/java/ApiVersion.md)
 - FAQ
   - [cross](/FAQ/Cross.md)
